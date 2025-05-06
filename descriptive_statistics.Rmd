@@ -1,5 +1,29 @@
 ```{r}
-#Testing
-1+1
+#Load Packages
 ```
+
+```{r}
+#Load Baseline Data
+baseline = readxl::read_excel('AE2018-ConfidentialDataFile1.xls')
+follow1 = readxl::read_excel('AE2018-ConfidentialDataFile2.xls')
+follow2 = readxl::read_excel('AE2018-ConfidentialDataFile3.xls')
+```
+
+```{r}
+#Table 1 - Baseline
+```
+
+```{r}
+#Table 1 - Follow Up 1
+```
+
+```{r}
+#Table 1 - Follow Up 2 
+```
+
+```{r}
+#Explore 
+```
+
+
 
