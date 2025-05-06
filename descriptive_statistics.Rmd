@@ -1,5 +1,16 @@
-```{r}
+---
+title: "VTE Project Descriptive Statistics"
+output: pdf_document
+---
+
+
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 #Load Packages
+library(htmlTable)
+library(table1)
+library(kableExtra)
 ```
 
 ```{r}
