@@ -5,7 +5,7 @@ output: pdf_document
 
 
 
-```{r, echo = FALSE}
+```{r}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 #Load Packages
 library(htmlTable)
